@@ -37,7 +37,7 @@ Now, while I am studying as a systems analyst at university, I am looking for al
    &emsp;
   <a href="https://astro.build" target="_blank"><img alt="Astro" src="https://img.shields.io/badge/Astro%20-BC52EE.svg?logo=astro&logoColor=white"></a> 
    &emsp;
-   <a href="https://nextjs.org" target="_blank"><img alt="Next" src="https://img.shields.io/badge/Next%20-BC52EE.svg?logo=astro&logoColor=black"></a> 
+   <a href="https://nextjs.org" target="_blank"><img alt="Next" src="https://img.shields.io/badge/NextJs%20-20232A.svg?logo=nextdotjs&logoColor=white"></a> 
    &emsp;
 </p>
 
