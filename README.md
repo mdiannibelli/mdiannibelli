@@ -22,7 +22,7 @@ Now, while I am studying as a systems analyst at university, I am looking for al
   &emsp;
   <a href="https://www.typescriptlang.org" target="_blank"> <img alt="Typescript" src="https://img.shields.io/badge/Typescript%20-20232A.svg?logo=typescript"></a>
   &emsp;
-  <a href="https://docs.oracle.com/en/java/" target="_blank"> <img alt="Java" src="https://img.shields.io/badge/Java%20-%23E34F26.svg?logo=java"></a>
+  <a href="https://docs.oracle.com/en/java/" target="_blank"> <img alt="Java" src="https://img.shields.io/badge/JAVA%20-%23E34F26.svg?logo=openjdk"></a>
   &emsp;
 </p>
 
@@ -55,7 +55,8 @@ Now, while I am studying as a systems analyst at university, I am looking for al
   <a href="https://nextjs.org" target="_blank"><img alt="Next" src="https://img.shields.io/badge/NextJs%20-20232A.svg?logo=nextdotjs&logoColor=white"></a> 
    &emsp;
   <a href="https://www.php.net/manual/es/intro-whatis.php" target="_blank"> <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%2307405e.svg?logo=php&logoColor=white"></a>  
-  
+   &emsp;
+  <a href="https://jestjs.io" target="_blank"> <img alt="Jest" src="https://img.shields.io/badge/Jest%20-20232A.svg?logo=jest&logoColor=white"></a>  
 </p>
 
 ### Databases & Cloud Hosting
