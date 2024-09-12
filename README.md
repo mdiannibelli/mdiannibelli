@@ -33,8 +33,6 @@ Now, while I am studying as a systems analyst at university, I am looking for al
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a> 
    &emsp;
-  <a href="https://getbootstrap.com" target="_blank"> <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/></a>
-  &emsp;
   <a href="https://es.react.dev" target="_blank"><img alt="React" src="https://img.shields.io/badge/React%20-20232A.svg?logo=react&logoColor=white"></a> 
    &emsp;
    <a href="https://es.redux.js.org" target="_blank"><img alt="Redux" src="https://img.shields.io/badge/Redux%20-593D88.svg?logo=redux&logoColor=white"></a> 
@@ -43,6 +41,21 @@ Now, while I am studying as a systems analyst at university, I am looking for al
    &emsp;
    <a href="https://nextjs.org" target="_blank"><img alt="Next" src="https://img.shields.io/badge/NextJs%20-20232A.svg?logo=nextdotjs&logoColor=white"></a> 
    &emsp;
+  <a href="https://tailwindcss.com" target="_blank"> <img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwindcss%20-%231572B6.svg?logo=tailwindcss&logoColor=white"/></a>
+  &emsp;
+  <a href="https://getbootstrap.com" target="_blank"> <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/></a>
+  &emsp;
+</p>
+
+### Backend Development
+<p align="left"> 
+  &emsp; 
+  <a href="https://nodejs.org/en" target="_blank"> <img alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%D90AC5.svg?logo=node.js&logoColor=white"></a>   
+  &emsp; 
+  <a href="https://nextjs.org" target="_blank"><img alt="Next" src="https://img.shields.io/badge/NextJs%20-20232A.svg?logo=nextdotjs&logoColor=white"></a> 
+   &emsp;
+  <a href="https://www.php.net/manual/es/intro-whatis.php" target="_blank"> <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%2307405e.svg?logo=php&logoColor=white"></a>  
+  
 </p>
 
 ### Databases & Cloud Hosting
@@ -74,11 +87,15 @@ Now, while I am studying as a systems analyst at university, I am looking for al
  
 <p>
   &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux%20-20232A.svg?logo=linux&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="https://git-scm.com"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-0078d7.svg?logo=docker&logoColor=white"></a>
+    <a href="https://code.visualstudio.com"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  &emsp;
+    <a href="https://www.docker.com"><img alt="Docker" src="https://img.shields.io/badge/Docker-0078d7.svg?logo=docker&logoColor=white"></a>
+  &emsp;
+    <a href="https://www.prisma.io"><img alt="Prisma" src="https://img.shields.io/badge/Prisma%20-20232A.svg?logo=prisma&logoColor=white"></a>
 </p>
 
 <br/>
