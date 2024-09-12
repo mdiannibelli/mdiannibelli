@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;System+analyst+in+progress...&color=BC52EE&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">💻I'm a junior full stack web developer & designer. A programming lover looking for new projects, ideas and knowledge.</h4>
+<h4 align="center">💻I am a programmer and web developer. Programming lover looking for new projects, ideas and knowledge.</h4>
 <br>
 After finishing high school, I began my career as a programmer by taking a full stack course at Coderhouse where I acquired part of my knowledge that currently continues to be updated daily.
 <br>
@@ -18,7 +18,11 @@ Now, while I am studying as a systems analyst at university, I am looking for al
 
 <p align="left"> 
   &emsp; 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=gray"></a>
+  &emsp;
+  <a href="https://www.typescriptlang.org" target="_blank"> <img alt="Typescript" src="https://img.shields.io/badge/Typescript%20-20232A.svg?logo=typescript"></a>
+  &emsp;
+  <a href="https://docs.oracle.com/en/java/" target="_blank"> <img alt="Java" src="https://img.shields.io/badge/Java%20-%23E34F26.svg?logo=java"></a>
   &emsp;
 </p>
 
@@ -44,11 +48,13 @@ Now, while I am studying as a systems analyst at university, I am looking for al
 ### Databases & Cloud Hosting
 <p align="left">
   &emsp;
+  <a href="https://www.postgresql.org"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23327FC7.svg?&logo=postgresql&logoColor=white"></a> 
+  &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white"></a>
   &emsp;
     <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
   &emsp;
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a> 
+    <a href="https://www.mongodb.com/es"><img alt="MongoDB" src ="https://img.shields.io/badge/mongodb-%B71AC1.svg?style=flat&logo=mongodb&logoColor=white"/></a>
   &emsp;
     <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
  </p>
@@ -56,13 +62,12 @@ Now, while I am studying as a systems analyst at university, I am looking for al
 ### Graphic Designing
 <p align="left">
   &emsp;
+   <a href="https://www.figma.com" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/Figma%20-BC52EE.svg?style=flat&logo=figma&logoColor=white"/></a>
+  &emsp;
    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white"/></a> 
   &emsp;
   <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop-31A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white"/></a> 
   &emsp;
-  <a href="https://www.vegascreativesoftware.com/us/vegas-pro/?lang=us&prdt=vegaspro&ef_id=CjwKCAiA8YyuBhBSEiwA5R3-E7IP7OEYrWPZh7uLg5YGtLlqzeNqzn1wfpx_aoIDAclpK6WDWYH1ixoCexAQAvD_BwE:G:s&AffiliateID=80&phash=1tfJcP0uekxzmk3q&gad_source=1&gclid=CjwKCAiA8YyuBhBSEiwA5R3-E7IP7OEYrWPZh7uLg5YGtLlqzeNqzn1wfpx_aoIDAclpK6WDWYH1ixoCexAQAvD_BwE" target="_blank"> 
-    <img alt="Sony Vegas" src="https://img.shields.io/badge/Sony Vegas-1A1A1A.svg?style=flat&logo=vegas&logoColor=white"/>
-  </a> 
  </p>
 
  ### Software & Tools
@@ -72,6 +77,8 @@ Now, while I am studying as a systems analyst at university, I am looking for al
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-0078d7.svg?logo=docker&logoColor=white"></a>
 </p>
 
 <br/>
@@ -79,10 +86,10 @@ Now, while I am studying as a systems analyst at university, I am looking for al
 ## Contact
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcos-iannibelli-1b3827254/)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mdiannibelli/)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-dionel-iannibelli-1b3827254/)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dioneldev/)
 [![image](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdiannibelli)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdiannibelli@gmail.com)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dioneldeveloper@gmail.com)
   
 </div>
 
