@@ -4,7 +4,7 @@ Software Developer 🧑🏻‍💻
 
 ## About Me 🚀
 
-**Software Developer & Founder** with 3+ years building in web applications, driven by a passion for tackling new challenges, a strong interest in entrepreneurship and always exploring exciting opportunities.
+**Software Developer & Founder** with 3+ years of experience in web applications, driven by a passion for tackling new challenges, a strong interest in entrepreneurship and always exploring exciting opportunities.
 
 I founded  <a href="https://www.calenxy.com/" target="_blank">Calenxy</a>, an online scheduling platform that lets professionals automate their bookings by simply sharing a link, no back-and-forth, no friction. 
 <br/>
